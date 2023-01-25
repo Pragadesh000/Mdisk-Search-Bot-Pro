@@ -13,7 +13,7 @@ class Config(object):
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "MdiskSearchRobot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "BQCJE0O6dt8IIs1SltuaWuV4XdmxEt5nGyJnwPYctsjrK4PiTgRlqpETGYrJuyQsscE88NqjYKCP6hTcJldOnSmdW1xOIBNvrSrjZIWXRWmB7RJGTx57Xf1m7yj87Pcg2f621piW4Sl8TCPV7k_x1CB0sy6ApEEYABHL818ys21rqx58nfv0YyHr4rU5m3yQdae4bSA34xqQTI0yL_XvpShm8ZhcVqt4F6dQ37Hk8aHHr7hXA-O-ZdeU9KKU295GONSRga2ivm4pbH5Ors91njc9HYyZ9SvngjKlmn9pnS5r2pdx9yKMspUO7hljIS4u2Qm-XAWTqckE2kzLxdrA_XIFAAAAAVf_yYkA")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001839212555 -1001833781506 -1001833597275 -1001701608511"))
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "vedighundfilesbot")
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "alreadyusebot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "1899869233"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "bJkwmska")
